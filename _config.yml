@@ -1,0 +1,83 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: MatJek
+description: > # this means to ignore newlines until "baseurl:"
+  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+#baseurl: "/matjek"
+url: "https://shawnteoh.github.io"
+permalink: /:year/:month/:day/:title
+repository: ShawnTeoh/matjek
+paginate: 5
+
+# Linkedin Links
+linkedin_profile_am: "https://www.linkedin.com/in/alastairmoore/"
+linkedin_profile_js: "https://www.linkedin.com/in/jiangbo-shangguan-b1031373/"
+
+# Site Info
+home_page: "https://phbs-ai-finance.github.io/"
+
+# Notebook Info
+notebook_list:
+  - name: "Notebook_week_1"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/Quiz_test/master/test.ipynb"
+
+# Reading info
+reading_list:
+  - tag: "Week_1"
+    content:
+      - name: "test_1"
+        link: "https://google.com"
+      - name: "test_2"
+        link: "https://google.com"
+      - name: "test_3"
+        link: "https://google.com"
+      - name: "test_4"
+        link: "https://google.com"
+      - name: "test_5"
+        link: "https://google.com"
+      - name: "test_6"
+        link: "https://google.com"
+      - name: "test_7"
+        link: "https://google.com"
+      - name: "test_8"
+        link: "https://google.com"
+  - tag: "Week_2"
+    content:
+      - name: "test_3"
+        link: "https://google.com"
+
+# MatJek specific configurations
+github_profile: "https://github.com/ShawnTeoh"
+user: "John Doe"
+user_email: "john@doe.com"
+#contact_url: "https://goo.gl/tVljbV"
+#google_tracking_id: "UA-96359860-1"
+#google_site_verification: "UA-96359860-1"
+#disqus_shortname: "matjek"
+
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+  style: compressed
+future: true
