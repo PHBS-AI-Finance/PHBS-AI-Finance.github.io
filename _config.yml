@@ -31,33 +31,17 @@ home_page: "https://phbs-ai-finance.github.io/"
 
 # Notebook Info
 notebook_list:
-  - name: "Notebook_week_1"
-    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/Quiz_test/master/test.ipynb"
+  - name: "Notebook Week_1"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_1.zip?raw=true"
+  - name: "Exercise Week_1"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Week_1_Exercise.ipynb"
 
 # Reading info
 reading_list:
   - tag: "Week_1"
     content:
-      - name: "test_1"
-        link: "https://google.com"
-      - name: "test_2"
-        link: "https://google.com"
-      - name: "test_3"
-        link: "https://google.com"
-      - name: "test_4"
-        link: "https://google.com"
-      - name: "test_5"
-        link: "https://google.com"
-      - name: "test_6"
-        link: "https://google.com"
-      - name: "test_7"
-        link: "https://google.com"
-      - name: "test_8"
-        link: "https://google.com"
-  - tag: "Week_2"
-    content:
-      - name: "test_3"
-        link: "https://google.com"
+      - name: "Artificial Intelligence in Finance Report"
+        link: "https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf"
 
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
