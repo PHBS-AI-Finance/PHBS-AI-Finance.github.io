@@ -1,0 +1,9 @@
+<div class="col s12 cat-div">
+  <ul class="cat-post">
+    {% for slides in site.slides_list %}
+    <a class="post-title" href="{{slides.link}}" target="_blank">
+      <li>
+        {{slides.name}}
+      </li>
+    </a>
+    {% endfor %}

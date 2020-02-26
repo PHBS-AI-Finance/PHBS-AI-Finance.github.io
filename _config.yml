@@ -45,6 +45,11 @@ reading_list:
       - name: "Artificial Intelligence in Finance Report"
         link: "https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf"
 
+# Slides info
+slides_list:
+  - name: "Week 1"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_1.pdf?raw=True"
+
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
