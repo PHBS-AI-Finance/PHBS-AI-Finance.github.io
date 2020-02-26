@@ -1,7 +1,8 @@
 <div class="col s12 cat-div">
   <ul class="cat-post">
     {% for notebook in site.notebook_list %}
-    <a class="post-title" href="{{notebook.link}}" target="_blank">
+    <a class="post-title" href="{{notebook.link}}" download>
+    <!--target="_blank">-->
       <li>
         {{notebook.name}}
       </li>

@@ -35,6 +35,8 @@ notebook_list:
     link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_1.zip?raw=true"
   - name: "Exercise Week_1"
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Week_1_Exercise.ipynb"
+  - name: "AVerySimpleTree"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/AVerySimpleTree.ipynb"
 
 # Reading info
 reading_list:
