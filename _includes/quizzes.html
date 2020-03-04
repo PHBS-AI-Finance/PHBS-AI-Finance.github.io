@@ -1,0 +1,9 @@
+<div class="col s12 cat-div">
+  <ul class="cat-post">
+    {% for quiz in site.quiz_list %}
+    <a class="post-title" href="{{slides.link}}" target="_blank">
+      <li>
+        {{quiz.name}}
+      </li>
+    </a>
+    {% endfor %}
