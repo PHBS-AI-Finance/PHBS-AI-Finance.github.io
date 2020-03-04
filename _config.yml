@@ -62,7 +62,9 @@ reading_list:
 # Slides info
 slides_list:
   - name: "Week 1"
-    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_1.pdf?raw=True"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_1.pdf?raw=true"
+  - name: "Week 2"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_2.pdf?raw=true"
 
 # Quiz Link
 quiz_list:
