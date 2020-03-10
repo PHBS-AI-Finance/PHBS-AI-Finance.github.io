@@ -72,6 +72,8 @@ slides_list:
 quiz_list:
   - name: "Quiz_test"
     link: "https://github.com/PHBS-AI-Finance/Quiz_Test"
+  - name: "Quiz_1"
+    link: "https://github.com/PHBS-AI-Finance/Quiz_1"
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
