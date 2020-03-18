@@ -53,6 +53,8 @@ notebook_list:
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Week_2_Exercise_Solution.ipynb"
   - name: "Notebook Week_3"
     link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_3.zip?raw=true"
+  - name: "Notebook Week_4"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_4.zip?raw=true"
 
 # Reading info
 reading_list:
@@ -78,6 +80,8 @@ quiz_list:
     link: "https://github.com/PHBS-AI-Finance/Quiz_Test"
   - name: "Quiz_1"
     link: "https://github.com/PHBS-AI-Finance/Quiz_1"
+  - name: "Quiz_2"
+    link: "https://github.com/PHBS-AI-Finance/Quiz_2"
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
