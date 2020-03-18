@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 4 Lecture"
-date:   2020-03-18 22:00:00
+date:   2020-03-17 22:00:00
 ---
 
 Hi, we will deliver lectures at campus tomorrow as usual. For those who will not be at the campus, please make sure you can take the quiz on time. Given the fact that many students will finish the remaining course online, we will host the lecture on Zoom tomorrow as a test.
