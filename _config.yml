@@ -57,6 +57,8 @@ notebook_list:
     link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_4.zip?raw=true"
   - name: "Numpy Exercise"
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Numpy_Exercise.ipynb"
+  - name: "Numpy Exercise Solution"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Numpy_Exercise_Solution.ipynb"
 
 # Reading info
 reading_list:
