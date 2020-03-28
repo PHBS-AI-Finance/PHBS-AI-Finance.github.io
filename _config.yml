@@ -61,6 +61,11 @@ notebook_list:
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Numpy_Exercise_Solution.ipynb"
   - name: "Notebook Week_5"
     link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_5.ipynb?raw=true"
+  - name: "Pandas Exercise"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Pandas_Exercise.ipynb"
+  - name: "Pandas Exercise Solution"
+    link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Pandas_Exercise_Solution.ipynb"
+
 
 # Reading info
 reading_list:
@@ -81,6 +86,8 @@ slides_list:
     link: "https://www.dropbox.com/s/hkhklhvth3887j9/Week_3.pdf?dl=0"
   - name: "Week 4"
     link: "https://www.dropbox.com/s/f1ifj3tl1cwk8rr/Week_4.pdf?dl=0"
+  - name: "Week 5 (with annotations)"
+    link: "https://www.dropbox.com/s/1eas2gors0j046h/Week_5.pdf?dl=0"
 
 # Quiz Link
 quiz_list:
