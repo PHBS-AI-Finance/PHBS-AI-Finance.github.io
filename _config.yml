@@ -107,6 +107,8 @@ quiz_list:
     link: "https://github.com/PHBS-AI-Finance/Quiz_3"
   - name: "Quiz_3 Solutions"
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Quiz_3_Solution.ipynb"
+  - name: "Quiz_4"
+    link: "https://github.com/PHBS-AI-Finance/Quiz_4"
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
