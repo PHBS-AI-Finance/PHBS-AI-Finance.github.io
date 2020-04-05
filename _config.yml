@@ -65,6 +65,8 @@ notebook_list:
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Pandas_Exercise.ipynb"
   - name: "Pandas Exercise Solution"
     link: "https://raw.githubusercontent.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/master/Pandas_Exercise_Solution.ipynb"
+  - name: "Notebook Week_6"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Week_6.zip?raw=true"
 
 
 # Reading info
