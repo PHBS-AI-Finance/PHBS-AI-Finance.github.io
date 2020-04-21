@@ -94,6 +94,12 @@ slides_list:
     link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/Google_Colab_Tutorial.pdf?raw=true"
   - name: "Week 6 (with annotations)"
     link: "https://www.dropbox.com/s/6j8ey96g2pa6vx2/Week_6%20annotated.pdf?dl=0"
+  - name: "Week 7"
+    link: "https://www.dropbox.com/s/4qjufnw88bgbyrf/Week_7%20annotated.pdf?dl=0"
+  - name: "Week 8"
+    link: "https://www.dropbox.com/s/s5mkap9uqsns2yh/Week_8.pdf?dl=0"
+  - name: "Report Template (word & Latex)"
+    link: "https://github.com/PHBS-AI-Finance/AI-Analytics-PHBS-UK/blob/master/PKU_Template.zip?raw=true"
 
 # Quiz Link
 quiz_list:
