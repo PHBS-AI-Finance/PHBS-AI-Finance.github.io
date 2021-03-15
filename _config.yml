@@ -71,6 +71,8 @@ slides_list:
 quiz_list:
   - name: "Quiz_1"
     link: "https://www.dropbox.com/s/waqfhk5l8g02rfb/Quiz_1.ipynb?dl=1"
+  - name: "Quiz_1 Solution"
+    link: "https://www.dropbox.com/s/999g1jndhdzr4cu/Quiz_1_Solution.ipynb?dl=1"
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
