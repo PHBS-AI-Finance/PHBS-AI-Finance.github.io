@@ -82,6 +82,17 @@ quiz_list:
     link: "https://www.dropbox.com/s/zr2sf4xrxdshnc9/Quiz_2.ipynb?dl=1"
   - name: "Quiz_2 Solution"
     link: "https://www.dropbox.com/s/1jew3xft5ilt6yi/Quiz_2_Solution.ipynb?dl=1"
+
+# Recording link
+recording_list:
+  - name: "Lecture 1"
+    link: "https://www.dropbox.com/s/erxxjgvhvrr8p95/Week_1.mp4?dl=0"
+  - name: "Lecture 2"
+    link: "https://www.dropbox.com/s/jaa9g8bufmfq74e/Week_2.mp4?dl=0"
+  - name: "Lecture 3"
+    link: "https://www.dropbox.com/s/9wjs9yoh6nskyjy/Week_3.mp4?dl=0"
+  - name: "Lecture 4"
+    link: "https://www.dropbox.com/s/yga1fudgkf311jp/Week_4.mp4?dl=0"
 #contact_url: "https://goo.gl/tVljbV"
 #google_tracking_id: "UA-96359860-1"
 #google_site_verification: "UA-96359860-1"
