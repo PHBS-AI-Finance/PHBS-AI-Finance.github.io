@@ -1,0 +1,9 @@
+<div class="col s12 cat-div">
+  <ul class="cat-post">
+    {% for recording in site.recording_list %}
+    <a class="post-title" href="{{recording.link}}" target="_blank">
+      <li>
+        {{recording.name}}
+      </li>
+    </a>
+    {% endfor %}
