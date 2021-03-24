@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quizzes"
+title: "Lecture Recordings"
 css: ["notebooks.css"]
 ---
 {% include recordings.html %}
