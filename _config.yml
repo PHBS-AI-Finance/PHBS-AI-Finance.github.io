@@ -82,6 +82,10 @@ quiz_list:
     link: "https://www.dropbox.com/s/zr2sf4xrxdshnc9/Quiz_2.ipynb?dl=1"
   - name: "Quiz_2 Solution"
     link: "https://www.dropbox.com/s/1jew3xft5ilt6yi/Quiz_2_Solution.ipynb?dl=1"
+  - name: "Quiz_3"
+    link: "https://www.dropbox.com/s/sp80jbxwpyyss8r/Quiz_3.ipynb?dl=1"
+  - name: "Quiz_3 Solution"
+    link: "https://www.dropbox.com/s/rggr754er22qlsz/Quiz_3_Solution.ipynb?dl=1"
 
 # Recording link
 recording_list:
