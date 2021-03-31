@@ -47,6 +47,10 @@ notebook_list:
     link: "https://www.dropbox.com/s/226kowfwmi3k8od/Week_3.ipynb?dl=1"
   - name: "Notebook Week_4"
     link: "https://www.dropbox.com/s/9v4dxm2odrmdzr1/Week_4.ipynb?dl=1"
+  - name: "Notebook Week_5"
+    link: "https://www.dropbox.com/s/yh7x9zduj983vdz/Week_5.ipynb?dl=1"
+  - name: "Notebook Week_6"
+    link: "https://www.dropbox.com/s/mvcyjuuio5fremj/Week_6.ipynb?dl=1"
 
 # Reading info
 reading_list:
@@ -71,6 +75,8 @@ slides_list:
     link: "https://www.dropbox.com/s/457yf8ry7v0wac2/Week_4.pdf?dl=1"
   - name: "Week 5"
     link: "https://www.dropbox.com/s/jy200spu2n796ll/Week_5.pdf?dl=1"
+  - name: "Week 6"
+    link: "https://www.dropbox.com/s/jwl75pvsxsry0aa/Week_6.pdf?dl=1"
 
 # Quiz Link
 quiz_list:
