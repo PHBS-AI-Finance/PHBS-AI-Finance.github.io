@@ -60,7 +60,7 @@ reading_list:
         link: "https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf"
       - name: "A Visual Introduction to Tree"
         link: "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"
-  - tag: "Report Examples"
+  - tag: "Example Reports"
     content:
       - name: "Loan Prediction Model"
         link: "https://www.dropbox.com/s/zljy308s2m62jbt/LOAN%20PREDICTION%20MODEL.pdf?dl=1"
