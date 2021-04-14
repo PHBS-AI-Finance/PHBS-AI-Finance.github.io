@@ -60,6 +60,14 @@ reading_list:
         link: "https://www.turing.ac.uk/sites/default/files/2019-04/artificial_intelligence_in_finance_-_turing_report_1.pdf"
       - name: "A Visual Introduction to Tree"
         link: "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/"
+  - tag: "Report Examples"
+    content:
+      - name: "Loan Prediction Model"
+        link: "https://www.dropbox.com/s/zljy308s2m62jbt/LOAN%20PREDICTION%20MODEL.pdf?dl=1"
+      - name: "China and U.S. Stock Prices Prediction based on XGBoost"
+        link: "https://www.dropbox.com/s/pis2g7b0wq4wj3v/China%20and%20U.S.%20Stock%20Prices%20Prediction%20based%20on%20XGBoost.pdf?dl=1"
+      - name: "A Study of IPO Initial Returns Based on Machine Learning"
+        link: "https://www.dropbox.com/s/wc4b5fjbvoqall2/A%20Study%20of%20IPO%20Initial%20Returns%20Based%20on%20Machine%20Learning.pdf?dl=1"
 
 # Slides info
 slides_list:
