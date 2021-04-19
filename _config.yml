@@ -100,6 +100,10 @@ quiz_list:
     link: "https://www.dropbox.com/s/sp80jbxwpyyss8r/Quiz_3.ipynb?dl=1"
   - name: "Quiz_3 Solution"
     link: "https://www.dropbox.com/s/rggr754er22qlsz/Quiz_3_Solution.ipynb?dl=1"
+  - name: "Quiz_4"
+    link: "https://www.dropbox.com/s/qgidpvzrifbglrk/Quiz_4.ipynb?dl=1"
+  - name: "Quiz_4 Solution"
+    link: "https://www.dropbox.com/s/rwwn80f7vhaumgo/Quiz_4_Solution.ipynb?dl=1"
 
 # Recording link
 recording_list:
